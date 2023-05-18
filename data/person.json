@@ -1,0 +1,16 @@
+{
+  "name": "Василий",
+  "age": 30,
+  "married": true,
+  "hobbies": [
+    "java",
+    "сноуборд"
+  ],
+  "children": [],
+  "car": null,
+  "job": {
+    "since": "2022-02-20",
+    "city": "Cherepovets",
+    "salary": 80000.00
+  }
+}

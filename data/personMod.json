@@ -13,11 +13,7 @@
     "licencePlate": "O777OO124"
   },
   "job": {
-    "since": [
-      2022,
-      2,
-      20
-    ],
+    "since": "20-02-2022",
     "city": "Cherepovets",
     "salary": 80000.0
   },
